@@ -398,6 +398,12 @@ header {
     width: 150%;
     height: 100%;
   }
+  .img-fluid {
+	max-width: 75%;
+	height: auto;
+  }
+  
+  
 }
 
 
@@ -452,8 +458,7 @@ header {
 	font-family: var(--content-font);
 }
 
-
-/*
+/**--
 Extra small (xs) devices (portrait phones, less than 576px)
 No media query since this is the default in Bootstrap
 
@@ -468,7 +473,7 @@ Large (lg) devices (desktops, 992px and up)
 
 Extra (xl) large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) { ... }
-*/
+--**/
 
 
 
