@@ -1,2 +1,2 @@
-# IN4MALS-Website
+# IN4MALS-WEBSITE
 
